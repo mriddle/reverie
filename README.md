@@ -33,14 +33,15 @@ Reverie is currently in the early stages of development. Here's a list of the co
 - AI-powered post summarization and tagging.
 - "Bring Your Own Key" (BYOK) encryption. _(Allow users to encrypt their data with a key they fully control)_
 
-## Getting Started
+## Deployment
 
-### Prerequisites
+### Local
+1. `bundle install`
+2. `rails s`
 
-- A Linux-based VPS (DigitalOcean, Linode, Hetzner, etc.)
-- Experience with Ruby on Rails 8 and PostgreSQL
+### Production
 
-### Installation
+TODO
 
 ## Contributing
 
